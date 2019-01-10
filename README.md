@@ -8,12 +8,6 @@ This repository contains the code and data for the conditional transfer entropy 
 
 # Data 
 
-## Public and Open Data
-Following data are public or open data that can be accessed online
-
 - NICS Background checks: https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state_type.pdf/view
 - Mother Jones Mass: https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/
-
-## Non Public Data
-
-Media Output data is compiled through ProQuest. 
+- Media Output data is compiled through ProQuest. 
