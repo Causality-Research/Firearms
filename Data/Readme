@@ -4,3 +4,5 @@ The excel file contains:
 1. NICS Background check data detrended and seasonally adjusted at the national level, regional level and for states in the U.S. from January 1999 until December 2017.
 2. Time series for Mass shooting occurences from January 1999 until December 2019.
 3. Media Output for "Firearm laws and regulations", "Unemployment", and "Shooting" Excluding "Firearm laws and regulations".
+
+Data for the synthetic models generated in the Supplemetary information is also provided. 
