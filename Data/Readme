@@ -5,6 +5,8 @@ The excel file ("Experemental-data-time-series) contains:
 - Time series for Mass shooting occurences from January 1999 until December 2019.
 - Media Output for "Firearm laws and regulations", "Unemployment", and "Shooting" Excluding "Firearm laws and regulations".
 
+The excel file "Original Background checks data" contains the actual number of background checks processed at a national, regional, and state level.
+
 Data for the synthetic models generated in the Supplemetary information is also provided in the excel file "Synthetic-model-time-series-1-2".
 
 Data for the state wise comparison in the Supplementary information is provided in the "raw_data" file with an explanation of all the laws considered given in the "codebook" excel file.
