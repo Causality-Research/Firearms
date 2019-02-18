@@ -33,7 +33,7 @@
 ## background_checks_processed.xlsx: 
 - Monthly background checks for each state from 1999 to 2017, detrended and seasonally adjusted for each state except Hawaii. Hawaii is the raw background checks due to virtually no changes (all zeros except one month).
 
-## summary_data.csv
+## summary_data.xlsx
 - Data used for the analysis on conditional transfer entropy and mutual information. Monthly articles on "firearm laws and regulations" are the sum of New York Times and Washington Post (source: ProQuest). Monthly articles on "unemployment" are the sum of New York Times and Washington Post (source: ProQuest). Monthly articles on "shootings" excluding "firearm laws and regulations" are the sum of New York Times and Washington Post (source: ProQuest). Total background checks are detrended and deseasonalized after removing Hawaii and Connecticut due to irregular reports on background checks.
 
 
