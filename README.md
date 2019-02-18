@@ -1,9 +1,7 @@
-######################################
+
 #    codes
-######################################
 
-
-Conditional transfer entropy with stats.nb
+## Conditional transfer entropy with stats.nb
 - Mathematica code to reproduce data in Tables 1, 2, and S4. This file computes conditional transfer entropy on binary time series, generate surrogate symbolic time sieres following a local permutation scheme, and estimate p-values for conditional transfer entropy.
 
 
@@ -27,9 +25,8 @@ Mathematical model.nb
 - Mathematica code to reproduce data in Figures S15 and S16. This file generates the synthetic data (see Supplementary Information for details) and plot an ROC curve.
 
 
-######################################
+
 #    data   
-######################################
 
 
 background_checks_raw.xlsx:
